@@ -1,2 +1,4 @@
-package week2.arraylists;public class GettingTheLargestValue {
+package week2.arraylists;
+
+public class GettingTheLargestValue {
 }
